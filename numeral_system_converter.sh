@@ -12,7 +12,7 @@
 if [ -z "$1" ] ;
 then
 	echo "There is no enought parameter:"
-	echo "$0 <input file(or stdin)>"
+	echo "$0 <input file>"
 
 	exit 0
 fi
